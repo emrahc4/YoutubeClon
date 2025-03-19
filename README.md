@@ -24,4 +24,5 @@ tailwindcss
 📩 İletişim
 Herhangi bir öneriniz veya geri bildiriminiz varsa benimle iletişime geçebilirsiniz! ✉️ emrahhckr@gmail.com
 
-🌐 Canlı Demo
+🌐 Ekran Görüntüsü
+![Image](https://github.com/user-attachments/assets/d3f1c6a5-0e99-44ef-bf3a-b8c837db2ec5)
